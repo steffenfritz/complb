@@ -5,4 +5,4 @@ title = "termine"
 menu = "main"
 +++
 
-`Nächster Stammtisch` 27.01.2016 
+`Nächster Stammtisch` 24.02.2016, ab 19 Uhr 30
