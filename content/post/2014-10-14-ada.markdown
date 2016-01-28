@@ -1,0 +1,26 @@
+---
+author: steffen
+categories: misc
+date: 2014-10-14T13:12:42Z
+title: Happy Ada Lovelace Day
+url: /ada-lovelace-day
+---
+
+Heute ist Ada Lovelace-Day und zu diesem hohen Tag ein paar interessante Links zu dieser beeindruckenden Frau.
+
+[The Mary Sue](http://www.themarysue.com/ada-lovelace-history/)
+
+[Wikipedia](http://de.wikipedia.org/wiki/Ada_Lovelace)
+
+[Finding Ada](http://findingada.com/about/who-was-ada/)
+
+In diesem Sinne
+
+    with Ada.Text_IO;
+ 
+    procedure Hallo is
+      begin
+          Ada.Text_IO.Put_Line("Happy ALD!");
+    end Hallo;
+
+[Mailingliste]: https://lists.riseup.net/www/info/computerstammtisch_ludwigsburg

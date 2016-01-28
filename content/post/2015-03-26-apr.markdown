@@ -1,0 +1,14 @@
+---
+author: steffen
+categories: termine
+date: 2015-03-26T13:12:42Z
+title: April-Stammtisch
+url: /april-2015-stammtisch
+---
+
+Der nächste Stammtisch findet am 22.04.2015 statt. Wer seinen Key signieren lassen möchte, bringe seinen Schnipsel mit Mailadresse, Keygröße, Gültigkeit und Fingerprint mit.
+
+Fragen jederzeit an die [Mailingliste](mailto:computerstammtisch_ludwigsburg@lists.riseup.net)
+
+
+[Mailingliste]: https://lists.riseup.net/www/info/computerstammtisch_ludwigsburg

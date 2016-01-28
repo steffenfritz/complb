@@ -1,0 +1,16 @@
+---
+author: steffen
+categories: termine
+date: 2015-09-21T13:12:42Z
+title: September-Stammtisch
+url: /september-2015-stammtisch
+---
+
+Die Sommerpause ist vorbei! Hurra! \o/
+
+Daher findet der nächste Stammtisch am 23.09.2015 statt. 
+
+Fragen jederzeit an die [Mailingliste](mailto:computerstammtisch_ludwigsburg@lists.riseup.net)
+
+
+[Mailingliste]: https://lists.riseup.net/www/info/computerstammtisch_ludwigsburg

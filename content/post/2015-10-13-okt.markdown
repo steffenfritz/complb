@@ -1,0 +1,14 @@
+---
+author: steffen
+categories: termine
+date: 2015-10-13T13:12:42Z
+title: Oktober-Stammtisch
+url: /oktober-2015-stammtisch
+---
+
+Der nächste Stammtisch findet am 28.10.2015 statt. 
+
+Fragen jederzeit an die [Mailingliste](mailto:computerstammtisch_ludwigsburg@lists.riseup.net)
+
+
+[Mailingliste]: https://lists.riseup.net/www/info/computerstammtisch_ludwigsburg

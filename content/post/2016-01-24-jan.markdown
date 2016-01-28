@@ -1,0 +1,15 @@
+---
+author: steffen
+categories: termine
+date: 2016-01-24T13:12:42Z
+title: Januar-Stammtisch
+url: /januar-2016-stammtisch
+---
+
+Der erste Stammtisch 2016 findet am 27. Januar, wie immer im Demoz statt.
+
+
+Fragen jederzeit an die [Mailingliste](mailto:computerstammtisch_ludwigsburg@lists.riseup.net)
+
+
+[Mailingliste]: https://lists.riseup.net/www/info/computerstammtisch_ludwigsburg

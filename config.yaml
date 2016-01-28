@@ -1,0 +1,11 @@
+baseurl: https://complb.de
+disablePathToLower: true
+languageCode: de-de
+title: CompLB
+theme: herring-cove 
+params:
+  ProfilePicture: "https://complb.de/complb.png"
+  links:
+    Home : "/"
+    Impressum: "/impressum/"
+    Termine: "/termine/"

@@ -1,0 +1,11 @@
+---
+categories: termine
+date: 2014-09-03T13:12:42Z
+title: Announce-Post
+url: /init-post
+---
+
+Der Inhalt dieses Posts ist die Bekanntgabe dieses Posts.
+
+
+[Mailingliste]: https://lists.riseup.net/www/info/computerstammtisch_ludwigsburg

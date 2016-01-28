@@ -1,0 +1,14 @@
+---
+author: steffen
+categories: termine
+date: 2014-12-14T13:12:42Z
+title: Nächster Stammtisch
+url: /januar-2015-stammtisch
+---
+
+Der nächste Stammtisch findet am 28.01.2015 ab 19:30 statt. 
+
+Übrigens darf sich jede gern auf unserer Mailingliste eintragen :)
+
+
+[Mailingliste]: https://lists.riseup.net/www/info/computerstammtisch_ludwigsburg

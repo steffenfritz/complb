@@ -1,0 +1,20 @@
+---
+author: steffen
+categories: termine
+date: 2015-11-24T13:12:42Z
+title: Movember-Stammtisch
+url: /movember-2015-stammtisch
+---
+
+Der Stammtisch am 25.11.2015 fällt aus, da Motörhead in Ludwigsburg spielen.
+
+Es wird im Dezember einen außerordentlichen (\o/) Stammtisch geben. Datum und Ort gibt es demnächst auf dieser Seite und unserer Mailingliste.
+
+
+Fragen jederzeit an die [Mailingliste](mailto:computerstammtisch_ludwigsburg@lists.riseup.net)
+
+
+[Motorhead](https://www.youtube.com/watch?v=NnyQitpiwLc)
+
+
+[Mailingliste]: https://lists.riseup.net/www/info/computerstammtisch_ludwigsburg
